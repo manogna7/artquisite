@@ -4,23 +4,23 @@
 .waxon_tm_settings .colors li a.black{background-color: #333;}
 .waxon_tm_settings .colors li a.white{background-color: #e5e5e5;}
 
-.waxon_tm_settings .colors li a.olive{background-color: #8b7364;}
+.waxon_tm_settings .colors li a.olive{background-color: #795a48;}
 
 
 
-.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_hero .content_inner h3{color: #8b7364;}
-.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_hero .content_inner h3.stroke{-webkit-text-stroke: 1px #8b7364;color: transparent;}
-.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_about .name h3{color: #8b7364;}
-.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_button a{background-color: #8b7364;border-color: #8b7364;}
+.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_hero .content_inner h3{color: #795a48;}
+.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_hero .content_inner h3.stroke{-webkit-text-stroke: 1px #795a48;color: transparent;}
+.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_about .name h3{color: #795a48;}
+.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_button a{background-color: #795a48;border-color: #795a48;}
 .waxon_tm_all_wrap[data-color="olive"] .waxon_tm_button a:hover{background-color: transparent;}
-.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_service ul li .svg{color: #8b7364;}
-.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_portoflio .gallery_inner ul li .list_inner .title h3 a:hover{color: #8b7364;}
-.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_testimonials .quote_list ul li .svg{color: #8b7364;}
-.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_blog .blog_inner ul li .details .title a:hover{color: #8b7364;}
-.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_topbar .menu .links ul li a:hover{color: #8b7364;}
-.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_portoflio .gallery_filter ul li a.current{color: #8b7364;}
-.waxon_tm_all_wrap[data-color="olive"] .cursor-inner.cursor-hover{background-color: #8b7364;}
-.waxon_tm_all_wrap[data-color="olive"] .cursor-outer{border-color: #8b7364;}
-.waxon_tm_all_wrap[data-color="olive"] .cursor-inner{background-color: #8b7364;}
-.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_topbar .menu .links ul li.current a{color: #8b7364;}
+.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_service ul li .svg{color: #795a48;}
+.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_portoflio .gallery_inner ul li .list_inner .title h3 a:hover{color: #795a48;}
+.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_testimonials .quote_list ul li .svg{color: #795a48;}
+.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_blog .blog_inner ul li .details .title a:hover{color: #795a48;}
+.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_topbar .menu .links ul li a:hover{color: #795a48;}
+.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_portoflio .gallery_filter ul li a.current{color: #795a48;}
+.waxon_tm_all_wrap[data-color="olive"] .cursor-inner.cursor-hover{background-color: #795a48;}
+.waxon_tm_all_wrap[data-color="olive"] .cursor-outer{border-color: #795a48;}
+.waxon_tm_all_wrap[data-color="olive"] .cursor-inner{background-color: #795a48;}
+.waxon_tm_all_wrap[data-color="olive"] .waxon_tm_topbar .menu .links ul li.current a{color: #795a48;}
 
