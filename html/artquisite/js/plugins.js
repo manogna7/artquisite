@@ -20650,8 +20650,10 @@ if ($("#particles-js").length) {
 
 function initMap() {
   var map = new google.maps.Map(document.getElementById("ieatmaps"), {
-    center: { lat: 34.0937458, lng: -118.3614978 },
-    zoom: 12,
+    center: { lat:17.418704862076165
+      , lng: 78.4450877331777 
+    },
+    zoom: 10,
     styles: [
       {
         featureType: "all",
@@ -20822,7 +20824,8 @@ function initMap() {
   });
 
   var marker = new google.maps.Marker({
-    position: new google.maps.LatLng(34.0937458, -118.3614978),
+    position: new google.maps.LatLng(17.418704862076165, 78.4450877331777
+      ),
     title: "ASL",
     map: map,
   });
